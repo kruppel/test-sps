@@ -1,0 +1,3 @@
+content testsp  chrome/content/
+
+overlay chrome://songbird/content/xul/layoutWithBrowserOverlay.xul chrome://testsp/content/scripts-overlay.xul
